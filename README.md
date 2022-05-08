@@ -17,22 +17,22 @@ Bootcamp Takım 52
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- 2D platform oyunumuz 2D dünyada kullanıcıları özgür bırakmayı amaçlamaktadır. Alışılagelmiş görevler ve engellerin aksine görevleri kişinin istediği sırada yapabileceği bir hikaye anlatımı oyunudur. Bu sayede oyunumuzu kullanan kişi oyundaki hikayenin istediği yerinden istediği yerine gidebilir. Oyunumuzda bunu levelleri 2D platform haritası olarak düşünerek sağlamayı amaçlıyoruz. Her level birer hikaye haritası olacak ve oyuncu bu hikayeleri levelleri oynayarak yaşayacak.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Kullanıcılara özgür bir 2D dünya sunması
+- Cihaz donanımlarını zorlamadan etkileşimli özgür bir oyun olması
+- Leveller arası geçişlerde zorunlu sıralama olmaması
+- Oyundaki engelleri ve ödüller içerisinden kişinin heyecan duyduklarına yönelebilmesi, heyecan duymadıklarını yapmak zorunda olmaması
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 15-30 Yaş arası hikaye oyunlarını seven kullanıcılar
+- PC ve mobil donanımı ortalamanın altında olan oyunseverler
+- 2D platform oyunlarını seven kullanıcılar
+
 
 ## Product Backlog URL
 
@@ -42,39 +42,34 @@ Bootcamp Takım 52
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Oyunun ana mekanikleri olan koşma ve zıplama özellikleri tamamlandı. Oyunun ilk demo buildini aldık. 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: İlk sprint için 100 puanlık toplam görev belirledik. Toplam 20 görev var, her görev 5 puan.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlogları trello üzerinde proje yönetimi, oyun tasarımı, yazılım, akademi görevleri, oyun sanatı olmak üzere beş ana gruba ayırdık. Ekipteki herkes becerilerine göre bu backloglardan kendine uygun olanı seçip scrum mastera bildirdikten sonra seçtiği backlog görevi üzerine çalıştı. 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak yapılmıştır?
+ [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/sprint_1_dailyScrum.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 4](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog4.png)
+![Backlog 5](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog5.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+- **Sprint Review**: Oyunda kullanılan assetlerden vazgeçilip oyuna özgün assetler tasarlanarak bunların kullanılmasına karar verilmiştir. Oyunun mekanikleri düzgün bir şekilde çalışmaktadır. Mekaniklere yenilerinin koyulması kararlaştırılmıştır. Yeni bir level design yapılması gerekmektedir. 
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
-
--**Diğer Notlar**:
-- N/A
-
----
+  - Daily scrumlardaki aksaklığın giderilmesi kararı alınmıştır.
 
 # Sprint 2
 
