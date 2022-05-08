@@ -36,7 +36,7 @@ Bootcamp Takım 52
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Trello Backlog Board](https://trello.com/b/hCX9uqBe/yaz%C4%B1l%C4%B1m)
 
 ---
 
