@@ -53,18 +53,18 @@ Bootcamp Takım 52
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak yapılmıştır?
- [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/sprint_1_dailyScrum.docx?raw=true)
+ [Sprint 1 Daily Scrum Chats](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/Sprint1Documents/sprint_1_dailyScrum.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
-![Backlog 4](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog4.png)
-![Backlog 5](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog5.png)
+![Backlog 1](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 2](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint1Documents/backlog2.png) 
+![Backlog 3](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 4](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint1Documents/backlog4.png)
+![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint1Documents/backlog5.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
+  ![Screenshot 2](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: Oyunda kullanılan assetlerden vazgeçilip oyuna özgün assetler tasarlanarak bunların kullanılmasına karar verilmiştir. Oyunun mekanikleri düzgün bir şekilde çalışmaktadır. Mekaniklere yenilerinin koyulması kararlaştırılmıştır. Yeni bir level design yapılması gerekmektedir. 
 
