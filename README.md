@@ -37,6 +37,7 @@ Bootcamp Takım 52
 ## Product Backlog URL
 
 [Trello Backlog Board](https://trello.com/b/hCX9uqBe/yaz%C4%B1l%C4%B1m)
+[Miro Burndown Graph](https://miro.com/app/board/uXjVO60TVMw=/)
 
 ---
 
