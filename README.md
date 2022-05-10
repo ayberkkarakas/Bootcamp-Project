@@ -54,7 +54,7 @@ Bootcamp Takım 52
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak yapılmıştır?
- [Sprint 1 Daily Scrum Chats](https://https://github.com/ayberkkarakas/Bootcamp-Project/tree/main/ProjectManagement/Sprint1Documents/sprint_1_dailyScrum.docx)
+ [Sprint 1 Daily Scrum Chats](https://https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint1Documents/sprint_1_dailyScrum.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint1Documents/backlog1.png) 
