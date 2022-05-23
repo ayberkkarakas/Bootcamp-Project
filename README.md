@@ -78,9 +78,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 90 puan
 
-- **Puan tamamlama mantığı**: İlk sprint için 90 puanlık toplam görev belirledik. Toplam 18 görev var, her görev 5 puan.
+- **Puan tamamlama mantığı**: İkinci sprint için 90 puanlık toplam görev belirledik. Toplam 18 görev var, her görev 5 puan.
 
-- **Backlog düzeni ve Story seçimleri**: B:   Backlogları trello üzerinde proje yönetimi, oyun tasarımı, yazılım, akademi görevleri, oyun sanatı olmak üzere beş ana gruba ayırdık. Ekipteki herkes becerilerine göre bu backloglardan kendine uygun olanı seçip scrum mastera bildirdikten sonra seçtiği backlog görevi üzerine çalıştı. Önceki sprintteki gibi çalıştık.
+- **Backlog düzeni ve Story seçimleri**: Backlogları trello üzerinde proje yönetimi, oyun tasarımı, yazılım, akademi görevleri, oyun sanatı olmak üzere beş ana gruba ayırdık. Ekipteki herkes becerilerine göre bu backloglardan kendine uygun olanı seçip scrum mastera bildirdikten sonra seçtiği backlog görevi üzerine çalıştı. Önceki sprintteki gibi çalıştık.
 
 - **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak ve sesli olarak  yapılmıştır.
  [Sprint 2 Daily Scrum Chats](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint2Documents/sprint_2_DailyScrum.docx?raw=true)
