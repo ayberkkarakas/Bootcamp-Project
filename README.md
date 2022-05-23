@@ -74,8 +74,34 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 2
 
+- **Sprint Notları**: Oyunun yan mekanikleri olan ödül toplama, level geçme ve can gibi özellikler oyuna eklendi. Oyun karakterimiz üzerine eskiz çizimleri ve temel çizimleri tamamladık. Oyunumuza ikinci bir build daha alıp test ettik.
 
----
+- **Sprint içinde tamamlanması tahmin edilen puan**: 90 puan
+
+- **Puan tamamlama mantığı**: İlk sprint için 90 puanlık toplam görev belirledik. Toplam 18 görev var, her görev 5 puan.
+
+- **Backlog düzeni ve Story seçimleri**: B:   Backlogları trello üzerinde proje yönetimi, oyun tasarımı, yazılım, akademi görevleri, oyun sanatı olmak üzere beş ana gruba ayırdık. Ekipteki herkes becerilerine göre bu backloglardan kendine uygun olanı seçip scrum mastera bildirdikten sonra seçtiği backlog görevi üzerine çalıştı. Önceki sprintteki gibi çalıştık.
+
+- **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak ve sesli olarak  yapılmıştır.
+ [Sprint 2 Daily Scrum Chats](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint2Documents/sprint_2_DailyScrum.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog1.png) 
+![Backlog 2](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog2.png) 
+![Backlog 3](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog3.png)
+![Backlog 4](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog4.png)
+![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog5.png)
+![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog6.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint2Documents/productss1.png?raw=true)
+  ![Screenshot 2](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint2Documents/productss2.png?raw=true)
+
+- **Sprint Review**: Oyunda kullanılan tilemaplerde eksik parçalar tespit ettik bu eksik parçaların eklenmesi gerekiyor. Oyuncunun karşısına çıkacak engellerin daha mekanikleştirilerek oyuna heyecan katması üzerine fikir alışverişi oluşturduk. Oyunumuzu bootcamp zaman kısıtından dolayı 3 level ile sınırlama kararı aldık. 
+
+- **Sprint Retrospective:**
+  - Tilemapleri eksik kısımlarının tamamlanması gerekmektedir.
+  - Oyunumuzu 3 levelle sınırlama kararı aldık.
 
 # Sprint 3
 
