@@ -6,10 +6,8 @@ Bootcamp Takım 52
 
 ## Takım Elemanları
 
-- Semih Matur: Product Owner
 - Mehmet Yöney: Scrum Master
 - Ayberk Karakaş: Developer
-- Emel Kuş: Game Designer
 
 ## Ürün İsmi
 
