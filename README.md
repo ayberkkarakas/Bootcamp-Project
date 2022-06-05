@@ -15,7 +15,7 @@ Bootcamp Takım 52
 
 ## Ürün Açıklaması
 
-- 2D platform oyunumuz 2D dünyada kullanıcıları özgür bırakmayı amaçlamaktadır. Alışılagelmiş görevler ve engellerin aksine görevleri kişinin istediği sırada yapabileceği bir hikaye anlatımı oyunudur. Bu sayede oyunumuzu kullanan kişi oyundaki hikayenin istediği yerinden istediği yerine gidebilir. Oyunumuzda bunu levelleri 2D platform haritası olarak düşünerek sağlamayı amaçlıyoruz. Her level birer hikaye haritası olacak ve oyuncu bu hikayeleri levelleri oynayarak yaşayacak.
+- 2D platform oyunumuz 2D dünyada kullanıcılara hızlı ve stresli bir oynanış sunmayı amaçlamaktadır. Oyuncunun haritadaki engelleri ve düşmanları atlatarak haritanın sonuna ulaşmayı çalıştığı oyunumda altınları toplamak da ayrı bir oyuncu hedefidir. Bazen doğru zamanlamayı tutturmak, bazen de doğru yerde doğru hareketi yapmak suretiyle parkurların aşılması ve birçok bölümün deneme yanılma sonucu geçilebilir olması oyuncuyu sürekli tekrar denemeye teşvik eder. 
 
 ## Ürün Özellikleri
 
@@ -103,4 +103,33 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 3
 
----
+- **Sprint Notları**: Oyunumuzda kullanacağımız ana karakter ve düşman karakterlerin çizimleri tamamlanmadığı için bunları kullanmaktan vazgeçip hazır assetler kullandık. Arka plan assetlerini kullanmaktan vazgeçtik. Hazır arka plan assetleri kullandık. Oyunun kullanıcı arayüzü tasarımı da tamamlandı. Oyuna yeni leveller eklendi.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 45 puan
+
+- **Puan tamamlama mantığı**: Üçüncü sprint için 45 puanlık toplam görev belirledik. Toplam 9 görev var, her görev 5 puan.
+
+- **Backlog düzeni ve Story seçimleri**: Backlogları trello üzerinde proje yönetimi, oyun tasarımı, yazılım, akademi görevleri, oyun sanatı olmak üzere beş ana gruba ayırdık. Ekipteki herkes becerilerine göre bu backloglardan kendine uygun olanı seçip scrum mastera bildirdikten sonra seçtiği backlog görevi üzerine çalıştı. Önceki sprintteki gibi çalıştık.
+
+- **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak ve sesli olarak  yapılmıştır.
+ [Sprint 2 Daily Scrum Chats](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint3Documents/Sprint_3_DailyScrum.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog1.png) 
+![Backlog 2](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog2.png) 
+![Backlog 3](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog3.png)
+![Backlog 4](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog4.png)
+![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog5.png)
+![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog6.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint3Documents/productss1.png?raw=true)
+  ![Screenshot 2](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint3Documents/productss2.png?raw=true)
+
+- **Sprint Review**: Oyunumuz final aşamasına gelmiştir. Buradan sonra projenin bitirilmesi gerekli. Bitirme için demo videosu hazırlanarak oyun buildiyle birlikte teslim edilecektir.
+
+- **Ürün raporu**: Oyunumuz  bir 2D platformer oyunudur. Bu oyundaki amacımız oyun içerisinde kullanılan assetleri kendimiz tasarlayarak oyun hikayesine tutarlı bir platformer yapmaktı. Nitekim oyunumuza bunu yapacak yeterli vakti bulamadık. İlk iki sprintte karakter ve arka plan assetleri tasarlayarak geçirdik ancak assetler oyunda kullanılacak yeterli sayıda çıkmadığı için bu fikirden vazgeçtik. Assetlerin üretildiği ilk iki sprintte game developerımız (Ayberk Karakaş) oyunda kullanılacak gerekli karakter mekaniklerini, NPC karakterleri, cinemachine gerekliliklerini başarılı bir şekilde tamamladı. Oyunumuzda assetler üretilemeyince akademiden mezun olabilmek için son sprintte eforumuzu çalışan bir oyun yapmaya ayırdık 
+
+- **Kaynak**: Assetlerin alındığı web sitesi: https://assetstore.unity.com/packages/2d/environments/platform-tile-pack-204101
+- Oyundaki coin ses efekti bfxr programı ile üretilmiştir. 
+
