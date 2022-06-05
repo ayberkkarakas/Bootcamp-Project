@@ -19,17 +19,17 @@ Bootcamp Takım 52
 
 ## Ürün Özellikleri
 
-- Kullanıcılara özgür bir 2D dünya sunması
-- Cihaz donanımlarını zorlamadan etkileşimli özgür bir oyun olması
-- Leveller arası geçişlerde zorunlu sıralama olmaması
-- Oyundaki engelleri ve ödüller içerisinden kişinin heyecan duyduklarına yönelebilmesi, heyecan duymadıklarını yapmak zorunda olmaması
+- Kullanıcılara sade ancak zorlayıcı bir parkur sunması
+- Cihaz donanımlarını zorlamayacak pixel art sanat tarzına sahip olması
+- Doğru zaman ve doğru hareketi yapma zorunluluğu
+- Oyuncudaki tekrar isteği uyandırması
 
 
 ## Hedef Kitle
 
-- 15-30 Yaş arası hikaye oyunlarını seven kullanıcılar
+- 10 - 25 yaş arası platform oyunlarını seven kullanıcılar
 - PC ve mobil donanımı ortalamanın altında olan oyunseverler
-- 2D platform oyunlarını seven kullanıcılar
+- Pixel art sanat tarzına ilgi duyanlar
 
 
 ## Product Backlog URL
