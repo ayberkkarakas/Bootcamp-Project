@@ -89,7 +89,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog3.png)
 ![Backlog 4](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog4.png)
 ![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog5.png)
-![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog6.png)
+![Backlog 6](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint2Documents/backlog6.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint2Documents/productss1.png?raw=true)
@@ -111,8 +111,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Backlog düzeni ve Story seçimleri**: Backlogları trello üzerinde proje yönetimi, oyun tasarımı, yazılım, akademi görevleri, oyun sanatı olmak üzere beş ana gruba ayırdık. Ekipteki herkes becerilerine göre bu backloglardan kendine uygun olanı seçip scrum mastera bildirdikten sonra seçtiği backlog görevi üzerine çalıştı. Önceki sprintteki gibi çalıştık.
 
-- **Daily Scrum**: Daily scrum toplantıları slack ve discord üzerinden yazışarak ve sesli olarak  yapılmıştır.
- [Sprint 2 Daily Scrum Chats](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint3Documents/Sprint_3_DailyScrum.docx?raw=true)
+- **Daily Scrum**: Daily scrum toplantıları Slack ve Discord üzerinden yazışarak ve sesli olarak  yapılmıştır.
+ [Sprint 3 Daily Scrum Chats](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint3Documents/Sprint_3_DailyScrum.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog1.png) 
@@ -120,7 +120,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog3.png)
 ![Backlog 4](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog4.png)
 ![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog5.png)
-![Backlog 5](https://raw.githubusercontent.com/ayberkkarakas/Bootcamp-Project/main/ProjectManagement/Sprint3Documents/backlog6.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/ayberkkarakas/Bootcamp-Project/blob/main/ProjectManagement/Sprint3Documents/productss1.png?raw=true)
